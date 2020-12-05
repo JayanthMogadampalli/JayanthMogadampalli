@@ -2,11 +2,6 @@
 <h3 align="center">Full Stack Developer || React Developer  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayanthMogadampalli" alt="JayanthMogadampalli" /> </p>
 
-<!--
-**JayanthMogadampalli/JayanthMogadampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Bolt-js**
 - 🌱 I’m currently learning  **Angular**
 - 👯 I’m looking to collaborate on  **ReactJS,Angular**
@@ -27,4 +22,4 @@ Here are some ideas to get you started:
 </p>
 
 
--->
+
