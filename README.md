@@ -12,7 +12,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth,ogadampalli&layout=compact&hide=html&theme=radical" alt="JayanthMogadampalli" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshcasper&show_icons=true&theme=radical" alt="harshcasper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthMogadampalli&show_icons=true&theme=radical" alt="JayanthMogadampalli" />
 
 <p align="center">
 </a>
