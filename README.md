@@ -8,7 +8,7 @@
 
 - 💬  Ask me about **ReactJS, Javascript, Bolt-js, NodeJs, Typescript, Data Structures and Algorithms**
 - 📫 How to reach me: **jayu6766@gmail.com**
-- ⚡ Fun fact: **I wrote few fictional stories.Want to be Author someday**
+- ⚡ Fun fact: **I love to write fictional stories!!**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthMogadampalli&layout=compact&hide=html&theme=radical" alt="JayanthMogadampalli" />
 
