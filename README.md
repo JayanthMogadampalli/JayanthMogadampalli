@@ -10,7 +10,7 @@
 - 📫 How to reach me: **jayu6766@gmail.com**
 - ⚡ Fun fact: **I wrote few fictional stories.Want to be Author someday**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth,ogadampalli&layout=compact&hide=html&theme=radical" alt="JayanthMogadampalli" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthMogadampalli&layout=compact&hide=html&theme=radical" alt="JayanthMogadampalli" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayanthMogadampalli&show_icons=true&theme=radical" alt="JayanthMogadampalli" />
 
